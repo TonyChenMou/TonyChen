@@ -206,14 +206,14 @@ const BLOG = {
     {
       name: '帰ろう',
       artist: '藤井风',
-      url: 'http://www.kuwo.cn/yinyue/140774580.mp3',
+      url: 'https://music.163.com/#/song?id=1449536597',
       cover:
             'https://img1.kuwo.cn/star/albumcover/500/18/6/995996530.jpg'
     },
     {
       name: '特にない',
       artist: '藤井风',
-      url: 'http://www.kuwo.cn/yinyue/140774566',
+      url: 'https://music.163.com/#/song?id=1449536597.mp3',
       cover:
             'https://img1.kuwo.cn/star/albumcover/500/18/6/995996530.jpg'
     }
