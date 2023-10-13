@@ -211,11 +211,18 @@ const BLOG = {
             'https://img1.kuwo.cn/star/albumcover/500/18/6/995996530.jpg'
     },
     {
-      name: '22',
+      name: '何なんw',
       artist: '藤井风',
-      url: 'https://music.163.com/#/song?id=1449536597.mp3',
+      url: 'https://sz-sycdn.kuwo.cn/6b1fef5f33a545c392eeabb4ea5a0c92/6529498f/resource/n1/84/15/248228701.mp3',
       cover:
-            'https://img1.kuwo.cn/star/albumcover/500/18/6/995996530.jpg'
+            'https://img1.kuwo.cn/star/albumcover/500/33/49/2250508328.jpg'
+    },
+    {
+      name: 'もうええわ',
+      artist: '藤井风',
+      url: 'https://lw-sycdn.kuwo.cn/f96b711f26dc2bed95436e8d46227bfc/65294a25/resource/30106/trackmedia/M500003SAPFB20KbBM.mp3',
+      cover:
+            'https://img3.kuwo.cn/star/albumcover/500/0/56/2630027378.jpg'
     }
   ],
   MUSIC_PLAYER_METING: process.env.NEXT_PUBLIC_MUSIC_PLAYER_METING || false, // 是否要开启 MetingJS，从平台获取歌单。会覆盖自定义的 MUSIC_PLAYER_AUDIO_LIST，更多配置信息：https://github.com/metowolf/MetingJS
