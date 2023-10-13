@@ -204,14 +204,14 @@ const BLOG = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '帰ろう',
+      name: '特にない',
       artist: '藤井风',
-      url: 'https://music.163.com/#/song?id=1449536597',
+      url: 'https://lw-sycdn.kuwo.cn/8785c6fe31b8ae85c69e3a9a9a24c249/65294757/resource/30106/trackmedia/M5000037VmKW1rJcsG.mp3',
       cover:
             'https://img1.kuwo.cn/star/albumcover/500/18/6/995996530.jpg'
     },
     {
-      name: '特にない',
+      name: '22',
       artist: '藤井风',
       url: 'https://music.163.com/#/song?id=1449536597.mp3',
       cover:
